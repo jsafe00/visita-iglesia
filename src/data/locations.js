@@ -1,18 +1,9 @@
-import imgGuadalupe from 'assets/images/guadalupe.jpg';
-import imgEscario from 'assets/images/escario.jpg';
-import imgAsilo from 'assets/images/asilo.jpg';
-import imgRedemptorist from 'assets/images/redemptorist.jpg';
-import imgStoRosario from 'assets/images/sto-rosario.jpg';
-import imgCebuCathedral from 'assets/images/cebu-cathedral.jpg';
-import imgStoNino from 'assets/images/sto-nino.jpg';
-
-
 export const locations = [
   {
     church: 'First Church Prayer',
     placename: 'Archdiocesan Shrine of Nuestra Señora de Guadalupe',
     info: 'https://www.facebook.com/patronasasugbo/',
-    image: imgGuadalupe,
+    image: 'https://lh3.googleusercontent.com/RPxA4akfRVugOWHKrAzxiwTT2GLM5h7YaY9OluYL82KFTXY-LrZxpHbuzSapQ8nDykhLHLkOtMfwfIRHwejxP7-cv9wgKrXc0D4a5AiFP2F798_hM19wezMl_r_qYVaWhOTmaUTc8uU=w2400',
     location: {
       lat: 10.330903759598772, 
       lng: 123.88039991347043
@@ -27,7 +18,7 @@ export const locations = [
     church: 'Second Church Prayer',
     placename: 'Our Lady of the Sacred Heart - Capitol Parish',
     info: 'https://www.facebook.com/OLSHCAPITOLPARISH/',
-    image: imgEscario,
+    image: 'https://lh3.googleusercontent.com/j3uQp86rKUA_elhG7p8TXsTJMcvj0ot5w2P-0NIFuR8vlaZZm3oFHx9KKGNqtzt0vZPwgfxns4xJpEEtyrmyFDphqhngQp__oYRxDl1ALhqXDw3ww37TN5UPdlp2bcbIaddrKQ5CXZw=w2400',
     location: {
       lat: 10.31748974444745, 
       lng: 123.89605779627365
@@ -42,7 +33,7 @@ export const locations = [
     church: 'Third Church Prayer',
     placename: 'Asilo de la Milagrosa',
     info: 'https://www.facebook.com/Asilo-de-la-Milagrosa-122646741156511/',
-    image: imgAsilo,
+    image: 'https://lh3.googleusercontent.com/1Qvk795-YPUox676EVjIc5L3JAkDJY0tgG78B0_Av3ZTq0E6tg-VyYZ9FVWPyIpOqUT6h3QMezkFz2anSVkj8Oa66D5nmgf-2r90T8vUVvdkiIEyP7Ljes5s5mjS-_MeiyJfl577T2w=w2400',
     location: {
       lat: 10.31514175678597,
       lng: 123.9023156388957
@@ -57,7 +48,7 @@ export const locations = [
     church: 'Fourth Church Prayer',
     placename: 'OMPH-Redemptorist Church Cebu',
     info: 'https://www.facebook.com/OMPHCebu/',
-    image: imgRedemptorist,
+    image: 'https://lh3.googleusercontent.com/RSSxCx8o64iKQWIn0jt3vHJuwhvaMqbmUCDmEHHTU0ajrLtlr9TKnfuSoeq6xsJ6lhFhkMVcJVdPauv8u30ACClddrjTCj1tTM1Dci4T-qknVvFa1koi2al6U2SkFEWaaxdv0EsFkiA=w2400',
     location: {
       lat: 10.312985269374067, 
       lng: 123.8977364269621
@@ -72,7 +63,7 @@ export const locations = [
     church: 'Fifth Church Prayer',
     placename: 'Archdiocese of Cebu Sto. Rosario Parish',
     info: 'https://www.facebook.com/sto.rosario.parish.cebu/',
-    image: imgStoRosario,
+    image: 'https://lh3.googleusercontent.com/V8-J3d_vT5OyBU0vJWGXdiHHHArNWefaErtNOR1xcouVm9Ne2C7CCOYRZp4Ugz9qClvy8-f35ebwbb4fWwSVFbzAXmOyk26alrN757U9VmMzh05qyOT2uMTHeh92Y49u5PSzKt4QXcE=w2400',
     location: {
       lat: 10.2996625218,
       lng: 123.896796568
@@ -87,7 +78,7 @@ export const locations = [
     church: 'Sixth Church Prayer',
     placename: 'Cebu Metropolitan Cathedral',
     info: 'https://www.facebook.com/katedralsasugbo/',
-    image: imgCebuCathedral,
+    image: 'https://lh3.googleusercontent.com/q3NkJ-ApS2BwkaljN-iTODoWxGb4E-wVg0XjdSdzgQqDWg4VZ-euI4Kcn6P_MA0nKcRmtiV88ZVlSEcute0zROW0Gund0dsTRibpiq9B4NHXpLh7M6Bjo32geVIgzyCDeloOb0Z520Y=w2400',
     location: {
       lat: 10.295861506931514, 
       lng: 123.90303811347047
@@ -103,7 +94,7 @@ export const locations = [
     church: 'Seventh Church Prayer',
     placename: 'Basilica Minore del Santo Niño de Cebu',
     info: 'https://www.facebook.com/BMSNCebu/',
-    image: imgStoNino,
+    image: 'https://lh3.googleusercontent.com/ERpGh4LzgzG_ZOTl1Q79P-rVO5ShGULADNAfNrU7s8dYvTYv1DXqVJ_Co4v1nWan_dI2IMW8hRzlaFqhNOPxBgUnfRNG7w-VxtLobN7WJRmf66IDuDwzxNP8qEQnLHepLy3wITVMp8I=w2400',
     location: {
       lat: 10.294362059184122, 
       lng: 123.90251232696225
