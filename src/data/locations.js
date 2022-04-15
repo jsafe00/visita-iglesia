@@ -14,8 +14,8 @@ export const locations = [
     info: 'https://www.facebook.com/patronasasugbo/',
     image: imgGuadalupe,
     location: {
-      lat: 10.3305,
-      lng: 123.8804
+      lat: 10.330903759598772, 
+      lng: 123.88039991347043
     },
     todo: [
       'Lord Jesus, you truly are the Way, which leads us to the Father. You are the Truth, where we find all knowledge and wisdom we need to face everyday’s struggles. You are the Life, for without you we are nothing. We praise you this night and thank you for the gift of your Eucharistic Presence.', 
@@ -29,8 +29,8 @@ export const locations = [
     info: 'https://www.facebook.com/OLSHCAPITOLPARISH/',
     image: imgEscario,
     location: {
-      lat: 10.3219432,
-      lng: 123.895409
+      lat: 10.31748974444745, 
+      lng: 123.89605779627365
     },
     todo: [
       'We are truly connected to you, Lord Jesus. Like the vine and its branches, we continually receive the grace and life from you alone. We especially remember this in the Holy Eucharist. Your body is the food which nourishes our spirit and makes us live more according to your will.',
@@ -59,8 +59,8 @@ export const locations = [
     info: 'https://www.facebook.com/OMPHCebu/',
     image: imgRedemptorist,
     location: {
-      lat: 10.3127,
-      lng: 123.8977
+      lat: 10.312985269374067, 
+      lng: 123.8977364269621
     },
     todo: [
       'Throughout the years, Lord Jesus, a lot of people showed their hatred towards your Eucharistic presence. Sacrileges done inside and outside the Church offended you so much. Many were led astray due to their false interpretations of the Sacrament which you alone provide. This gave much offense to your Eucharistic Presence, dear Lord.',
@@ -89,8 +89,8 @@ export const locations = [
     info: 'https://www.facebook.com/katedralsasugbo/',
     image: imgCebuCathedral,
     location: {
-      lat: 10.2956,
-      lng: 123.9030
+      lat: 10.295861506931514, 
+      lng: 123.90303811347047
     },
     todo: [
       'Lord Jesus, you are the eternal High Priest. In your sacrifice in Calvary, you gave a perfect sacrifice which is sufficient for every time and place. Through the hands of the priest, you continuously give yourself to us, and at the same time offer yourself to the Father.',
@@ -105,8 +105,8 @@ export const locations = [
     info: 'https://www.facebook.com/BMSNCebu/',
     image: imgStoNino,
     location: {
-      lat: 10.2941,
-      lng: 123.9021
+      lat: 10.294362059184122, 
+      lng: 123.90251232696225
     },
     todo: [
       'Lord Jesus, you are in the Father, just as he is in you. In the Holy Eucharist, you continuously manifest your total unity with us. This is one big grace that no mere mortal can understand, except for those enlightened by your Word and Grace.',
