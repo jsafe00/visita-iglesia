@@ -6,7 +6,7 @@ const Footer = () => {
   return (
     <footer>
       <Container>
-        <p>&copy; { new Date().getFullYear() }, Visita Iglesia</p>
+        <p>&copy; { new Date().getFullYear() },  Forwarding Experiment - https://visita-iglesia.netlify.app</p>
       </Container>
     </footer>
   );
